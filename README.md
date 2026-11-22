@@ -8,7 +8,7 @@ This project transforms raw retail transaction data into an interactive dashboar
 
 ## Dashboard Preview
 
-Dashboard screenshots will be added here once the Overview page is finalised.
+![Superstore Sales Performance Dashboard](https://raw.githubusercontent.com/AlifAzraei/superstore-sales-performance/main/Png/SuperStore_Dashboard.png)
 
 ## Business Objectives
 
